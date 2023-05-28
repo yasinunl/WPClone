@@ -11,12 +11,12 @@ This is a frontend-only WhatsApp clone app developed using React Native. It aims
 
 ## Screenshots
 
-1. Chats: ![first](./assets/wp1.JPG)
-1. Stories - Status: ![second](./assets/wp2.JPG)
-1. Calls: ![first](./assets/wp3.JPG)
-1. Chat: ![second](./assets/wp4.JPG)
-1. Chat on input: ![first](./assets/wp5.JPG)
-1. Chat after send message: ![second](./assets/wp6.JPG)
+1. ![first](./assets/wp1.JPG)
+1. ![second](./assets/wp2.JPG)
+1. ![first](./assets/wp3.JPG)
+1. ![second](./assets/wp4.JPG)
+1. ![first](./assets/wp5.JPG)
+1. ![second](./assets/wp6.JPG)
 
 ## Initial Setup
 
